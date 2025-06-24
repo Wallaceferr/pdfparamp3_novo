@@ -58,9 +58,9 @@ O sistema foi testado com usuários reais e obteve avaliações muito positivas 
 
 ## 📦 Futuras melhorias
 
-- Adição de barra de progresso durante o processamento
-- Botão de parar áudio
-- Mensagens de alerta com `messagebox`
+- Adição de barra de progresso durante o processamento ✔️
+- Botão de parar áudio ✔️
+- Mensagens de alerta com `messagebox` ✔️
 - Versão web responsiva
 - Suporte para múltiplos idiomas
 
